@@ -11,7 +11,7 @@ const Input = ({
         fontSize: 25,
         height: 50,
         flex: 1,
-        color: 'white'
+        color: 'grey'
       }}
       autoCorrect={false}
       spellCheck={false}
